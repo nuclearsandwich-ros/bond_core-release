@@ -1,1 +1,1 @@
-{"base": "6307767", "parent": "debian/rolling/smclib", "previous": "7621703", "trim": "", "trimbase": ""}
+{"base": "dab5cf7", "parent": "debian/humble/smclib", "previous": "0269e20", "trim": "", "trimbase": ""}
